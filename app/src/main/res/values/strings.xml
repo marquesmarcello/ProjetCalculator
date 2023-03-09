@@ -1,0 +1,13 @@
+<resources>
+    <string name="message">Olá, bem vindo!</string>
+    <string name="button">Calcular</string>
+    <string name="peso">Digite seu peso</string>
+    <string name="altura">Digite sua altura</string>
+    <string name="seuimc">Seu IMC</string>
+    <string name="classificacao">Classificação: %1$s!</string>
+    <string name="abaixopeso">Menor que 18.5 (ABAIXO DO PESO)</string>
+    <string name="pesonormal">Entre 18.5 e 24.9 (PESO NORMAL)</string>
+    <string name="acimapeso">Entre 25 e 29.9 (ACIMA DO PESO)</string>
+    <string name="obesidade">Entre 25 e 29.9 (OBESIDADE)</string>
+    <string name="tabela">REFERENCIA TABELA IMC :</string>
+</resources>
