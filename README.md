@@ -4,7 +4,7 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/results/image1.png" width="260">&emsp;<img src="/results/image2.png" width="260">&emsp;<img src="/results/image3.png" width="260">
+<img src="/result/imagen1.png" width="260">&emsp;<img src="/result/imagen2.png" width="260">&emsp;<img src="/result/imagen3.png" width="260">
 
 ## Tecnologias
 * Kotlin
@@ -31,7 +31,7 @@ Marcello Marques (follow me on [Twitter](https://twitter.com/roquebuarque))
 ```
 The MIT License (MIT)
 
-Copyright (c) 2023 Marcello Marques
+Copyright (c) 2023 Marcello Marques 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
