@@ -24,7 +24,7 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 - Melhorar estilização do app
 
 ## Author
-Marcello Marques (follow me on [Twitter](https://twitter.com/roquebuarque))
+Marcello Marques (follow me on [Linkedin](https://www.linkedin.com/in/marcello-marques-4aa569253/))
 
 ## License
 ```
